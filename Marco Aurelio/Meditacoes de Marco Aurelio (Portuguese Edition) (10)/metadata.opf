@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7abd2c47-4311-4ee5-9ec6-dd791a493d20</dc:identifier>
+        <dc:title>Meditações de Marco Aurélio (Portuguese Edition)</dc:title>
+        <dc:creator opf:file-as="Aurélio, Marco" opf:role="aut">Marco Aurélio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Montecristo</dc:publisher>
+        <dc:language>por</dc:language>
+        <dc:language>grc</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-20T23:14:00.487448+00:00"/>
+        <meta name="calibre:title_sort" content="Meditações de Marco Aurélio (Portuguese Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2df41c99-b4ec-467c-9a54-9b1643aed631</dc:identifier>
+        <dc:title>Tratado da Correção do Intelecto</dc:title>
+        <dc:creator opf:file-as="Espinosa, Baruch de" opf:role="aut">Baruch de Espinosa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-20T22:41:08.187269+00:00"/>
+        <meta name="calibre:title_sort" content="Tratado da Correção do Intelecto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>

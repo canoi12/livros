@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e0cb3d0-ce24-4984-9708-b4801aab76b7</dc:identifier>
+        <dc:title>Ser e tempo: edição em alemão e português</dc:title>
+        <dc:creator opf:file-as="Heidegger, Martin &amp; Castilho, Fausto" opf:role="aut">Martin Heidegger</dc:creator>
+        <dc:creator opf:file-as="Heidegger, Martin &amp; Castilho, Fausto" opf:role="aut">Fausto Castilho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-15T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Este volume oferece, em edição bilíngue (alemão-português), a Primeira Parte incompleta de um tratado concebido para abranger duas grandes partes. Esse texto, denominado Ser e tempo, é amplamente considerado a contribuição maior daquele que muitos têm como o principal filósofo do século XX. Fausto Castilho - que frequentou o curso de Heidegger na Universidade de Friburgo, transformado no livro Que significa "pensar"?, e o seminário de Eugen Fink sobre a Monadologia de Leibniz - é o responsável por essa tradução que constitui um marco na história da recepção desta obra no Brasil.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Unicamp</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788532643407</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">vN-sNAEACAAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-12-20T23:05:24.373183+00:00"/>
+        <meta name="calibre:title_sort" content="Ser e tempo: edição em alemão e português"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>

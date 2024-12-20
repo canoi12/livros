@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a69791c3-24c9-49f8-b270-22918edabb37</dc:identifier>
+        <dc:title>Ética – Edição bilíngue</dc:title>
+        <dc:creator opf:file-as="Espinosa, Baruch de" opf:role="aut">Baruch de Espinosa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-14T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"Ora, o tradutor Tomaz Tadeu alcançou um notável êxito. Seu trabalho é, sem dúvida, superior a todas as outras tentativas em língua portuguesa. Incontestável mesmo é que esse cuidadoso trabalho merece ser saudado e, com justiça, vai se impor nos próximos anos como a tradução padrão da Ética em português. &lt;/p&gt;
+&lt;p&gt;" Homero Santiago, O Estado de S. Paulo "A nova tradução da Ética é um empreendimento editorial louvável. Salta aos olhos um cuidado de tradução que foi capaz de aliar precisão conceitual e recusa em abandonar o solo das potencialidades coloquiais da língua portuguesa. Temos enfim nas livrarias brasileiras uma edição à altura de um dos livros maiores da história da filosofia. &lt;/p&gt;
+&lt;p&gt;" Vladimir Safatle, Folha de S. Paulo "Nova tradução de obra de Espinosa, o filósofo da imanência absoluta, corrige equívocos das versões disponíveis. Para os leitores brasileiros do filósofo, dentro e fora das universidades, o feito é um evento e tanto. &lt;/p&gt;
+&lt;p&gt;" Mauricio Rocha, O Globo "Eis, agora, a terceira [tradução], feita por Tomaz Tadeu com evidente cuidado e minúcia, que se revelam tanto na precisão conceitual como no esforço por verter o original latim para um 'português brasileiro contemporâneo', sem sacrificar a terminologia filosófica de Spinoza. De quebra, temos a chance de acompanhar e verificar a tradução no texto em latim que vem ao lado. &lt;/p&gt;
+&lt;p&gt;" Pedro Duarte de Andrade, Cult A publicação da Ética, do filósofo holandês Benedictus de Spinoza, em nova tradução, constitui-se em um marco para a Autêntica Editora, que completa, neste ano de 2007, uma década de existência. Ela consolida o nosso projeto de publicar traduções de obras, antigas ou modernas, consideradas clássicas, iniciativa que teve início com O Panóptico, de Jeremy Bentham. A importância que lhe concedemos é assinalada não apenas pela decisão de publicá-la em edição bilígüe, mas também pela especial preocupação com os aspectos gráficos. Dada a constante remissão de Spinoza a passagens anteriores do texto (proposições, definições, axiomas, etc.), buscou-se dar-lhe um formato que facilitasse o movimento de ir e vir da leitura. É, entretanto, o cuidado com o trabalho de tradução que deve , acima de tudo, ser ressaltado. O princípio normativo foi o da produção de um texto que, sem deixar de ser fiel à expressão de Spinoza, estivesse mais próximo do léxico e da sintaxe da língua presentemente utilizada do Brasil. O que podemos assegurar é que a tradução que ora entregamos aos leitores é o resultado de um trabalho demorado e meticuloso, que se beneficiou da confrontação com traduções para outras línguas, da consulta a comentaristas de variadas orientações filosóficas e dos indispensáveis recursos fornecidos pela informática. É, pois, com a publicação deste texto clássico do pensamento ocidental, notável por sua atualidade, que a Autêntica Editora reafirma que seu projeto de tornar acessível a um número maior de leitores obras de referência obrigatória em nossa cultura.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Autêntica Editora</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788551302101</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">WYHQDwAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-12-16T03:39:31.033675+00:00"/>
+        <meta name="calibre:title_sort" content="Ética – Edição bilíngue"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>

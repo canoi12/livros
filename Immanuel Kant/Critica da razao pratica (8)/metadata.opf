@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07fd6b03-3027-4b50-9505-a78aa1c9c0e9</dc:identifier>
+        <dc:title>Crítica da razão prática</dc:title>
+        <dc:creator opf:file-as="Kant, Immanuel" opf:role="aut">Immanuel Kant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-29T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Essa obra mostra-se fundamental para a compreensão da filosofia moral kantiana na medida em que Kant, respondendo às diversas objeções levantadas por seus contemporâneos, oferece uma nova exposição da razão prática pura - com recurso à polêmica noção de "fato da razão" -, apresenta uma concepção mais elaborada do conceito de respeito enquanto sentimento moral e introduz os conceitos de sumo bem e de postulados práticos para dar resposta ao problema da relação entre felicidade e virtude.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editora Vozes Limitada</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788532655899</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DmI1DwAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Filosofia</dc:subject>
+        <dc:subject>idéias</dc:subject>
+        <meta name="calibre:timestamp" content="2024-12-20T22:47:16+00:00"/>
+        <meta name="calibre:title_sort" content="Crítica da razão prática"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>

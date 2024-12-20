@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc6e4020-f30d-4fc6-a5b5-e6d81009055a</dc:identifier>
+        <dc:title>Breve tratado de Deus, do homem e do seu bem-estar</dc:title>
+        <dc:creator opf:file-as="Espinosa, Baruch de" opf:role="aut">Baruch de Espinosa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-25T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A Autêntica Editora apresenta a primeira tradução para o português desta obra clássica, que traz o Tratado de Baruch de Espinosa sobre Deus, o homem, o seu bem-estar e sua felicidade. Constituído de duas partes, seguidas de um apêndice, ela antecedeu Ética e é considerada um esboço de sua obra fundamental e uma das melhores introduções para leitores que desejam uma iniciação à filosofia espinosana. Foi nesta obra que Espinosa demonstrou, pela primeira vez, como conceber a nossa felicidade a partir da essência de Deus. Em o Breve Tratado, Spinoza trata dos aspectos fundamentais do ser humano, sua natureza, a religião, a liberdade humana e a união imediata com deus para a busca do bem-estar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Autentica</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788565381444</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">qxmkAgAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-12-20T22:41:08+00:00"/>
+        <meta name="calibre:title_sort" content="Breve tratado de Deus, do homem e do seu bem-estar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>
