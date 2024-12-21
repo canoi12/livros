@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">712747f4-5cbe-4daa-b3e3-3088ae8c2d1f</dc:identifier>
+        <dc:title>Poema de Parmênides</dc:title>
+        <dc:creator opf:file-as="Eleia, Parmênides de" opf:role="aut">Parmênides de Eleia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-04T20:30:38+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-20T23:29:28+00:00"/>
+        <meta name="calibre:title_sort" content="Poema de Parmênides"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>

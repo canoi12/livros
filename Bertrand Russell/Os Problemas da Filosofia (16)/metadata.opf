@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5230c3ed-6c63-4c29-8621-daff7c00771f</dc:identifier>
+        <dc:title>Os Problemas da Filosofia</dc:title>
+        <dc:creator opf:file-as="Russell, Bertrand" opf:role="aut">Bertrand Russell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-01T05:00:00+00:00</dc:date>
+        <dc:description>É uma introdução à filosofia e defesa de algumas das teorias do autor.</dc:description>
+        <dc:publisher>dlivros.com</dc:publisher>
+        <dc:language>por</dc:language>
+        <dc:subject>Filosofia</dc:subject>
+        <meta name="calibre:timestamp" content="2024-12-21T00:57:31.025111+00:00"/>
+        <meta name="calibre:title_sort" content="Problemas da Filosofia, Os"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>
