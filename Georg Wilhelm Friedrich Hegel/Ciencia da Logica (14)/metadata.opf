@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcaea15c-44c8-4501-87c7-848689c9ad7c</dc:identifier>
+        <dc:title>Ciência da Lógica</dc:title>
+        <dc:creator opf:file-as="Hegel, Georg Wilhelm Friedrich" opf:role="aut">Georg Wilhelm Friedrich Hegel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-31T03:00:00+00:00</dc:date>
+        <dc:description>&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 14px;"&gt;Publicada entre os anos 1812 e 1816, a obra figura como um dos pilares fundamentais da filosofia alemã.&lt;/span&gt;&lt;/font&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">5d961f3e-3c19-4431-81d9-3cce14aa8337</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Filosofia</dc:subject>
+        <meta name="calibre:timestamp" content="2024-12-21T00:46:14.362803+00:00"/>
+        <meta name="calibre:title_sort" content="Ciência da Lógica"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>

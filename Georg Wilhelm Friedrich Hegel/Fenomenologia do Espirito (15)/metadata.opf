@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f15b3fc-b791-46f7-a048-83bc54c99647</dc:identifier>
+        <dc:title>Fenomenologia do Espírito</dc:title>
+        <dc:creator opf:file-as="Hegel, Georg Wilhelm Friedrich" opf:role="aut">Georg Wilhelm Friedrich Hegel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-05T03:00:00+00:00</dc:date>
+        <dc:publisher>LeLivros</dc:publisher>
+        <dc:language>por</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-21T00:47:17.993005+00:00"/>
+        <meta name="calibre:title_sort" content="Fenomenologia do Espírito"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>
